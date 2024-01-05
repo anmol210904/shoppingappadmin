@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651078864547",
+    "project_id": "shopping-app-ca4ac",
+    "storage_bucket": "shopping-app-ca4ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651078864547:android:d0e6d28529db5ee6863916",
+        "android_client_info": {
+          "package_name": "com.example.shoppingappadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbLq_E19F6tVb5GLPAdhD5JqhKT_kw3Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

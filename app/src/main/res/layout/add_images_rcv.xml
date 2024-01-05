@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_margin="3dp"
+        tools:layout_editor_absoluteX="144dp"
+        tools:layout_editor_absoluteY="95dp"
+        tools:ignore="MissingConstraints">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_margin="3dp"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            app:srcCompat="@drawable/woman"
+            tools:layout_editor_absoluteX="84dp"
+            tools:layout_editor_absoluteY="146dp" />
+    </androidx.cardview.widget.CardView>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
